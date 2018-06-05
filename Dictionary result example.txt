@@ -1,0 +1,75 @@
+{
+    "artists": [
+        {
+            "name": "Metallica",
+            "topTracks": [
+                "Enter Sandman",
+                "Nothing Else Matters"
+            ],
+            "genres": [
+                "album rock",
+                "alternative metal",
+                "classic rock",
+                "hard rock",
+                "metal",
+                "nu metal",
+                "post-grunge",
+                "rock",
+                "speed metal",
+                "thrash metal"
+            ],
+            "recommendedArtists": [
+                "Slayer",
+                "Megadeth"
+            ]
+        },
+        {
+            "name": "Led Zeppelin",
+            "topTracks": [
+                "Stairway To Heaven",
+                "Immigrant Song"
+            ],
+            "genres": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock"
+            ],
+            "recommendedArtists": [
+                "Deep Purple",
+                "Black Sabbath"
+            ]
+        },
+        {
+            "name": "Kendrick Lamar",
+            "topTracks": [
+                "All The Stars (with SZA)",
+                "King's Dead (with Kendrick Lamar, Future & James Blake)"
+            ],
+            "genres": [
+                "hip hop",
+                "pop rap",
+                "rap",
+                "west coast rap"
+            ],
+            "recommendedArtists": [
+                "ScHoolboy Q",
+                "Ab-Soul"
+            ]
+        },
+        {
+            "name": "Ed Sheeran",
+            "topTracks": [
+                "Perfect",
+                "Shape of You"
+            ],
+            "genres": [
+                "pop"
+            ],
+            "recommendedArtists": [
+                "The Script",
+                "Niall Horan"
+            ]
+        }
+    ]
+}
